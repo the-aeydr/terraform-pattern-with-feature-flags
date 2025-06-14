@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you refer to this article, please cite it as below."
+
+version: 1.0.0
+date-released: 2023-07-05
+title: "Using Feature Flags within Terraform for conditional infrastructure"
+url: "https://writing.aeydr.dev/notes/terraform-pattern-with-feature-flags"
+authors:
+- given-names: "aeydr"
+
+preferred-citation:
+  type: article
+  journal: "The Architectural Decision Record"
+  authors:
+  - given-names: "aeydr"
+
+  title: "Using Feature Flags within Terraform for conditional infrastructure"
+  month: 07
+  year: 2023

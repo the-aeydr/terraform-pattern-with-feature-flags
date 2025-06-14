@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: terraform-pattern-with-feature-flags
+  description: Using Terraform's 'count' to support feature flags for conditional infrastructure
+  tags:
+    - terraform
+    - terraform
+  annotations:
+    displayName: Using Feature Flags within Terraform for conditional infrastructure
+    github.com/project-slug: the-aeydr/terraform-pattern-with-feature-flags
+spec:
+  type: documentation
+  lifecycle: experimental
